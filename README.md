@@ -1,3 +1,3 @@
 # Glassmorphism Pokemon API Search
 
-![Codex-search-app](https://github.com/Siphiwo/pokemon-codex-search/blob/main/Codex-search-app.png)
+![Pokedex Demo](/assets/images/Apr-12-2022%2019-57-04.gif)
